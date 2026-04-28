@@ -16,10 +16,10 @@ React + Vite + Firebase Realtime Database. GitHub Pages 배포.
 ## 3. 구현 순서
 
 Step 1 ✅ 프로젝트 초기화 (완료)
-Step 2   체스 로직 — `src/logic/` (chess-logic 스킬 참조)
-Step 3   Firebase 연동 — `src/firebase/` (firebase-sync 스킬 참조)
-Step 4   훅 레이어 — `src/hooks/`
-Step 5   UI 컴포넌트 — `src/components/Board/` (board-renderer 스킬 참조)
+Step 2 ✅ 체스 로직 — `src/logic/` (chess-logic 스킬 참조)
+Step 3 ✅ Firebase 연동 — `src/firebase/` (firebase-sync 스킬 참조)
+Step 4 ✅ 훅 레이어 — `src/hooks/`
+Step 5 ✅ UI 컴포넌트 — `src/components/Board/` (board-renderer 스킬 참조)
 Step 6   게임 흐름 UI — `src/components/Lobby/`, `src/components/Game/`
 Step 7   통합 테스트
 Step 8   배포
